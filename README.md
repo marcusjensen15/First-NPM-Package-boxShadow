@@ -4,7 +4,7 @@ Create perfect shadows every time for the non-designer
 
 # Installation
 
-`npm i shadowizard --save`
+`npm i shadowizardmj --save`
 
 Then...
 
