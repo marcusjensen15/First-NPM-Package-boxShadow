@@ -1,0 +1,22 @@
+{
+  "name": "shadowizardmj15",
+  "version": "1.0.0",
+  "description": "Add cool shadows for the non designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusjensen15/First-NPM-Package-boxShadow.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Marcus Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusjensen15/First-NPM-Package-boxShadow/issues"
+  },
+  "homepage": "https://github.com/marcusjensen15/First-NPM-Package-boxShadow#readme"
+}
